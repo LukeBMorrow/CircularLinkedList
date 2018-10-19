@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5340d6fd-1c43-42e4-898d-f249a4184da9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Assignment2/Main.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/A2MorrowLuke.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Node.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Set.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Set.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -235,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539979656824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Renamed File.&quot;">
+      <created>1539980172156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539980172156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +282,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed the structure of test, fixed bugs that caused infinite loops in difference and union, fixed a bug that caused the second item in a set to be on a new line." />
     <MESSAGE value="&quot;Fixed bugs that were causing reversals of the set and preventing delete from function properly, added finishing comments.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Fixed bugs that were causing reversals of the set and preventing delete from function properly, added finishing comments.&quot;" />
+    <MESSAGE value="&quot;Renamed File.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Renamed File.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
