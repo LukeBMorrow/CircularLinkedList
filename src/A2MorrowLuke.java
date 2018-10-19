@@ -17,7 +17,7 @@ import java.io.FileNotFoundException;
 import java.io.File;
 import java.util.Scanner;
 
-public class Main {
+public class A2MorrowLuke {
 
 
     public static void main(String[] args) {
