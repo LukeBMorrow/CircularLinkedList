@@ -6,7 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Node.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Set.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Set.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/A2MorrowLuke.java" afterPath="$PROJECT_DIR$/src/A2MorrowLuke.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539980184347</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;added the functionality to ask for the input file during runtime.&quot;">
+      <created>1540403479852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540403479852</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -288,7 +294,8 @@
     <MESSAGE value="changed the structure of test, fixed bugs that caused infinite loops in difference and union, fixed a bug that caused the second item in a set to be on a new line." />
     <MESSAGE value="&quot;Fixed bugs that were causing reversals of the set and preventing delete from function properly, added finishing comments.&quot;" />
     <MESSAGE value="&quot;Renamed File.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Renamed File.&quot;" />
+    <MESSAGE value="&quot;added the functionality to ask for the input file during runtime.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added the functionality to ask for the input file during runtime.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
