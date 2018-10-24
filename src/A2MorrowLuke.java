@@ -22,7 +22,7 @@ public class A2MorrowLuke {
 
     public static void main(String[] args) {
         try
-        { Set.test("a2data.txt");}//runs all of the tests
+        { Set.test(fileNameRequester());}//runs all of the tests
 
         catch(FileNotFoundException e)//prints the error
         { System.out.println("The file could not be opened: \n"+e); }
@@ -30,6 +30,14 @@ public class A2MorrowLuke {
         System.out.println("End of program.");
     }
 
+    /*asks the user for the name of the file and returns it
+     */
+    public static String fileNameRequester()
+    {
+        Scanner inputFileReader = new Scanner(System.in);
+        System.out.println("Enter name of file, please: ");
+        return inputFileReader.next();
+    }
 }
 
 
