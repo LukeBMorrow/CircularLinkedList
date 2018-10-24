@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5340d6fd-1c43-42e4-898d-f249a4184da9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Node.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Assignment2/Set.class" afterPath="$PROJECT_DIR$/out/production/Assignment2/Set.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/A2MorrowLuke.java" afterPath="$PROJECT_DIR$/src/A2MorrowLuke.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,19 +21,14 @@
       <file leaf-file-name="A2MorrowLuke.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/A2MorrowLuke.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="-646">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
-                <element signature="e#0#7947#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="method#main#0;class#A2MorrowLuke#0" expanded="false" />
                 <element signature="class#Node#0" expanded="false" />
-                <element signature="class#Set#0" expanded="false" />
                 <element signature="method#Set#0;class#Set#0" expanded="false" />
                 <element signature="method#insert#0;class#Set#0" expanded="false" />
                 <element signature="method#delete#0;class#Set#0" expanded="false" />
-                <element signature="method#union#0;class#Set#0" expanded="false" />
-                <element signature="method#difference#0;class#Set#0" expanded="false" />
                 <element signature="method#print#0;class#Set#0" expanded="false" />
                 <element signature="method#test#0;class#Set#0" expanded="false" />
               </folding>
@@ -68,6 +62,7 @@
       <list>
         <option value="C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/A2MorrowLuke.java" />
       </list>
     </option>
   </component>
@@ -92,8 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +104,9 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -240,12 +235,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539980172156</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Renamed File.&quot;">
+      <created>1539980184347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539980184347</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -255,8 +256,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06150583" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48568398" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -265,8 +266,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34040296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34040296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -300,16 +301,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#7947#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#A2MorrowLuke#0" expanded="false" />
             <element signature="class#Node#0" expanded="false" />
-            <element signature="class#Set#0" expanded="false" />
             <element signature="method#Set#0;class#Set#0" expanded="false" />
             <element signature="method#insert#0;class#Set#0" expanded="false" />
             <element signature="method#delete#0;class#Set#0" expanded="false" />
-            <element signature="method#union#0;class#Set#0" expanded="false" />
-            <element signature="method#difference#0;class#Set#0" expanded="false" />
             <element signature="method#print#0;class#Set#0" expanded="false" />
             <element signature="method#test#0;class#Set#0" expanded="false" />
           </folding>
@@ -321,16 +317,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#7947#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#A2MorrowLuke#0" expanded="false" />
             <element signature="class#Node#0" expanded="false" />
-            <element signature="class#Set#0" expanded="false" />
             <element signature="method#Set#0;class#Set#0" expanded="false" />
             <element signature="method#insert#0;class#Set#0" expanded="false" />
             <element signature="method#delete#0;class#Set#0" expanded="false" />
-            <element signature="method#union#0;class#Set#0" expanded="false" />
-            <element signature="method#difference#0;class#Set#0" expanded="false" />
             <element signature="method#print#0;class#Set#0" expanded="false" />
             <element signature="method#test#0;class#Set#0" expanded="false" />
           </folding>
@@ -342,16 +333,27 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#7947#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#A2MorrowLuke#0" expanded="false" />
             <element signature="class#Node#0" expanded="false" />
-            <element signature="class#Set#0" expanded="false" />
             <element signature="method#Set#0;class#Set#0" expanded="false" />
             <element signature="method#insert#0;class#Set#0" expanded="false" />
             <element signature="method#delete#0;class#Set#0" expanded="false" />
-            <element signature="method#union#0;class#Set#0" expanded="false" />
-            <element signature="method#difference#0;class#Set#0" expanded="false" />
+            <element signature="method#print#0;class#Set#0" expanded="false" />
+            <element signature="method#test#0;class#Set#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A2MorrowLuke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Node#0" expanded="false" />
+            <element signature="method#Set#0;class#Set#0" expanded="false" />
+            <element signature="method#insert#0;class#Set#0" expanded="false" />
+            <element signature="method#delete#0;class#Set#0" expanded="false" />
             <element signature="method#print#0;class#Set#0" expanded="false" />
             <element signature="method#test#0;class#Set#0" expanded="false" />
           </folding>
@@ -441,19 +443,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A2MorrowLuke.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="-646">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
-            <element signature="e#0#7947#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#A2MorrowLuke#0" expanded="false" />
             <element signature="class#Node#0" expanded="false" />
-            <element signature="class#Set#0" expanded="false" />
             <element signature="method#Set#0;class#Set#0" expanded="false" />
             <element signature="method#insert#0;class#Set#0" expanded="false" />
             <element signature="method#delete#0;class#Set#0" expanded="false" />
-            <element signature="method#union#0;class#Set#0" expanded="false" />
-            <element signature="method#difference#0;class#Set#0" expanded="false" />
             <element signature="method#print#0;class#Set#0" expanded="false" />
             <element signature="method#test#0;class#Set#0" expanded="false" />
           </folding>

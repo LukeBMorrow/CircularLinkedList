@@ -22,7 +22,7 @@ public class A2MorrowLuke {
 
     public static void main(String[] args) {
         try
-        { Set.test("a2testdata.txt");}//runs all of the tests
+        { Set.test("a2data.txt");}//runs all of the tests
 
         catch(FileNotFoundException e)//prints the error
         { System.out.println("The file could not be opened: \n"+e); }
@@ -152,17 +152,21 @@ class Set {
         Node lastInsert = result.end;
 
         //work
-        while (!(currA == a.end && currB == b.end)) {
+        while (currA != a.end || currB != b.end) {
             if (currA.getData() < currB.getData())         //if a is smaller
             {
                 lastInsert.setNext(new Node(lastInsert.getNext(), currA.getData()));
                 currA = currA.getNext();
-                lastInsert=lastInsert.getNext();
+                lastInsert = lastInsert.getNext();
             } else if (currA.getData() == currB.getData()) { //if a is b
                 currB = currB.getNext();
                 currA = currA.getNext();
             } else                                       //if b is smaller
+            {
+                lastInsert.setNext(new Node(lastInsert.getNext(), currB.getData()));
+                lastInsert = lastInsert.getNext();
                 currB = currB.getNext();
+            }
         }
 
         //use work
